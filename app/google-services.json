@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "62189169190",
+    "project_id": "nu-health-centre",
+    "storage_bucket": "nu-health-centre.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62189169190:android:d7931d29f007d4c6a654e7",
+        "android_client_info": {
+          "package_name": "com.example.nuhealthcentre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62189169190-qp9pi3fkcaa9mbv8bf6m9gu68afdn0l1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nuhealthcentre",
+            "certificate_hash": "e2d882bf2b27e74f5025149e10235ab62b67450c"
+          }
+        },
+        {
+          "client_id": "62189169190-3rt1scla6ls904503a31g8ucm73ntgdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSFvEMYh4Al7W8vxrwOM3eN0E8sDOZ9s8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62189169190-3rt1scla6ls904503a31g8ucm73ntgdm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
