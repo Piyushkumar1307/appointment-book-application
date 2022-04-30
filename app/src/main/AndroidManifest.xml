@@ -12,6 +12,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.NUHealthCentre">
         <activity
+            android:name=".AdminDataActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AdminActivity"
+            android:exported="false" />
+        <activity
             android:name=".ClexActivity"
             android:exported="false" />
         <activity
