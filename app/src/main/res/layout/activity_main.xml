@@ -18,9 +18,10 @@
             android:layout_height="50dp"
             android:layout_marginLeft="6dp"
             android:layout_marginRight="6dp"
-            android:layout_marginTop="8dp"
+            android:layout_marginTop="10dp"
             app:cardCornerRadius="9dp"
-            android:elevation="5dp">
+            android:elevation="5dp"
+            android:backgroundTint="@color/black">
 
             <LinearLayout
                 android:layout_width="wrap_content"
@@ -35,7 +36,7 @@
                     android:layout_gravity="center"
                     android:text="Choose Your Doctor"
                     android:textAlignment="center"
-                    android:textColor="@color/black"
+                    android:textColor="@color/white"
                     android:textSize="25sp"
                     android:textStyle="bold" />
 
@@ -68,7 +69,7 @@
             android:layout_marginLeft="16dp"
             android:layout_marginRight="16dp"
             android:layout_marginBottom="16dp"
-            android:background="@color/black"
+            android:backgroundTint="@color/black"
             app:cardCornerRadius="8dp"
             app:cardElevation="8dp">
 
@@ -80,8 +81,8 @@
                 android:orientation="vertical">
 
                 <ImageView
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
                     android:layout_gravity="center_horizontal"
                     android:src="@drawable/physician" />
 
@@ -91,8 +92,8 @@
                     android:layout_gravity="center"
                     android:text="Physician"
                     android:textAlignment="center"
-                    android:textColor="@color/black"
-                    android:textSize="16sp"
+                    android:textColor="@color/white"
+                    android:textSize="18sp"
                     android:textStyle="bold" />
 
             </LinearLayout>
@@ -110,7 +111,7 @@
             android:layout_marginBottom="16dp"
             app:cardCornerRadius="8dp"
             app:cardElevation="8dp"
-            android:background="@color/black">
+            android:backgroundTint="@color/black">
 
             <LinearLayout
                 android:layout_width="wrap_content"
@@ -120,8 +121,8 @@
                 android:orientation="vertical">
 
                 <ImageView
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
                     android:layout_gravity="center_horizontal"
                     android:src="@drawable/immune"/>
                 <TextView
@@ -129,8 +130,8 @@
                     android:layout_height="wrap_content"
                     android:text="Immunologists"
                     android:textStyle="bold"
-                    android:textSize="16sp"
-                    android:textColor="@color/black"
+                    android:textSize="18sp"
+                    android:textColor="@color/white"
                     android:layout_gravity="center"
                     android:textAlignment="center"/>
 
@@ -149,7 +150,7 @@
             android:layout_marginBottom="16dp"
             app:cardCornerRadius="8dp"
             app:cardElevation="8dp"
-            android:background="@color/black">
+            android:backgroundTint="@color/black">
 
             <LinearLayout
                 android:layout_width="wrap_content"
@@ -159,8 +160,8 @@
                 android:orientation="vertical">
 
                 <ImageView
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
                     android:layout_gravity="center_horizontal"
                     android:src="@drawable/ardiologists"/>
                 <TextView
@@ -168,8 +169,8 @@
                     android:layout_height="wrap_content"
                     android:text="Cardiologists"
                     android:textStyle="bold"
-                    android:textSize="16sp"
-                    android:textColor="@color/black"
+                    android:textSize="18sp"
+                    android:textColor="@color/white"
                     android:layout_gravity="center"
                     android:textAlignment="center"/>
 
@@ -188,7 +189,7 @@
             android:layout_marginBottom="16dp"
             app:cardCornerRadius="8dp"
             app:cardElevation="8dp"
-            android:background="@color/black">
+            android:backgroundTint="@color/black">
 
             <LinearLayout
                 android:layout_width="wrap_content"
@@ -198,8 +199,8 @@
                 android:orientation="vertical">
 
                 <ImageView
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
                     android:layout_gravity="center_horizontal"
                     android:src="@drawable/astroenterologists"/>
                 <TextView
@@ -208,7 +209,7 @@
                     android:text="Gastroenterologists"
                     android:textStyle="bold"
                     android:textSize="14sp"
-                    android:textColor="@color/black"
+                    android:textColor="@color/white"
                     android:layout_gravity="center"
                     android:textAlignment="center"/>
 
@@ -227,7 +228,7 @@
             android:layout_marginBottom="16dp"
             app:cardCornerRadius="8dp"
             app:cardElevation="8dp"
-            android:background="@color/black">
+            android:backgroundTint="@color/black">
 
             <LinearLayout
                 android:layout_width="wrap_content"
@@ -237,8 +238,8 @@
                 android:orientation="vertical">
 
                 <ImageView
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
                     android:layout_gravity="center_horizontal"
                     android:src="@drawable/hema"/>
                 <TextView
@@ -247,7 +248,7 @@
                     android:text="Hematologists"
                     android:textStyle="bold"
                     android:textSize="16sp"
-                    android:textColor="@color/black"
+                    android:textColor="@color/white"
                     android:layout_gravity="center"
                     android:textAlignment="center"/>
 
@@ -266,7 +267,7 @@
             android:layout_marginBottom="16dp"
             app:cardCornerRadius="8dp"
             app:cardElevation="8dp"
-            android:background="@color/black">
+            android:backgroundTint="@color/black">
 
             <LinearLayout
                 android:layout_width="wrap_content"
@@ -276,8 +277,8 @@
                 android:orientation="vertical">
 
                 <ImageView
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
                     android:layout_gravity="center_horizontal"
                     android:src="@drawable/mergency"/>
                 <TextView
@@ -285,8 +286,8 @@
                     android:layout_height="wrap_content"
                     android:text="Emergency"
                     android:textStyle="bold"
-                    android:textSize="16sp"
-                    android:textColor="@color/black"
+                    android:textSize="18sp"
+                    android:textColor="@color/white"
                     android:layout_gravity="center"
                     android:textAlignment="center"/>
 
@@ -305,7 +306,7 @@
             android:layout_marginBottom="16dp"
             app:cardCornerRadius="8dp"
             app:cardElevation="8dp"
-            android:background="@color/black">
+            android:backgroundTint="@color/black">
 
             <LinearLayout
                 android:layout_width="wrap_content"
@@ -315,8 +316,8 @@
                 android:orientation="vertical">
 
                 <ImageView
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
                     android:layout_gravity="center_horizontal"
                     android:src="@drawable/physiatrists"/>
                 <TextView
@@ -324,8 +325,8 @@
                     android:layout_height="wrap_content"
                     android:text="Physiatrists"
                     android:textStyle="bold"
-                    android:textSize="16sp"
-                    android:textColor="@color/black"
+                    android:textSize="18sp"
+                    android:textColor="@color/white"
                     android:layout_gravity="center"
                     android:textAlignment="center"/>
 
@@ -344,7 +345,7 @@
             android:layout_marginBottom="16dp"
             app:cardCornerRadius="8dp"
             app:cardElevation="8dp"
-            android:background="@color/black">
+            android:backgroundTint="@color/black">
 
             <LinearLayout
                 android:layout_width="wrap_content"
@@ -354,8 +355,8 @@
                 android:orientation="vertical">
 
                 <ImageView
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
                     android:layout_gravity="center_horizontal"
                     android:src="@drawable/ndocrinologists"/>
                 <TextView
@@ -364,7 +365,7 @@
                     android:text="Endocrinologists"
                     android:textStyle="bold"
                     android:textSize="16sp"
-                    android:textColor="@color/black"
+                    android:textColor="@color/white"
                     android:layout_gravity="center"
                     android:textAlignment="center"/>
 

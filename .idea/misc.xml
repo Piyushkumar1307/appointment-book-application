@@ -3,12 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/NUHealthCentre/app/src/main/res/layout/activity_admin.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/NUHealthCentre/app/src/main/res/layout/activity_admin_data.xml" value="0.1" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/NUHealthCentre/app/src/main/res/layout/activity_admin.xml" value="0.2" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/NUHealthCentre/app/src/main/res/layout/activity_admin_data.xml" value="0.2" />
         <entry key="..\:/Users/ALPHA/AndroidStudioProjects/NUHealthCentre/app/src/main/res/layout/activity_alex.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/ALPHA/AndroidStudioProjects/NUHealthCentre/app/src/main/res/layout/activity_blex.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/ALPHA/AndroidStudioProjects/NUHealthCentre/app/src/main/res/layout/activity_cardio.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/ALPHA/AndroidStudioProjects/NUHealthCentre/app/src/main/res/layout/activity_cardioo.xml" value="0.264" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/NUHealthCentre/app/src/main/res/layout/activity_category.xml" value="0.24048913043478262" />
         <entry key="..\:/Users/ALPHA/AndroidStudioProjects/NUHealthCentre/app/src/main/res/layout/activity_clex.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/ALPHA/AndroidStudioProjects/NUHealthCentre/app/src/main/res/layout/activity_dummy1.xml" value="0.25052083333333336" />
         <entry key="..\:/Users/ALPHA/AndroidStudioProjects/NUHealthCentre/app/src/main/res/layout/activity_emergency.xml" value="0.24010416666666667" />
@@ -16,7 +17,7 @@
         <entry key="..\:/Users/ALPHA/AndroidStudioProjects/NUHealthCentre/app/src/main/res/layout/activity_endo2.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/ALPHA/AndroidStudioProjects/NUHealthCentre/app/src/main/res/layout/activity_hema.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/ALPHA/AndroidStudioProjects/NUHealthCentre/app/src/main/res/layout/activity_home.xml" value="0.25052083333333336" />
-        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/NUHealthCentre/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/NUHealthCentre/app/src/main/res/layout/activity_login.xml" value="0.2" />
         <entry key="..\:/Users/ALPHA/AndroidStudioProjects/NUHealthCentre/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/ALPHA/AndroidStudioProjects/NUHealthCentre/app/src/main/res/layout/activity_mohit.xml" value="0.25052083333333336" />
         <entry key="..\:/Users/ALPHA/AndroidStudioProjects/NUHealthCentre/app/src/main/res/layout/activity_psycho.xml" value="0.25416666666666665" />

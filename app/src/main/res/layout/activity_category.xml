@@ -17,83 +17,35 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="40dp"
-            android:layout_marginBottom="5dp"
+            android:layout_marginBottom="50dp"
             android:fontFamily="@font/amethysta"
-            android:text=" (Health center Database)-Doctor Table"
+            android:text=" (Health center Database)-Category Table"
             android:textAlignment="center"
             android:textColor="@color/black"
             android:textSize="20sp"
             android:textStyle="bold" />
 
         <EditText
-            android:id="@+id/doc"
+            android:id="@+id/catid"
             android:layout_width="350dp"
             android:layout_height="50dp"
             android:layout_below="@+id/table"
             android:layout_marginLeft="40dp"
-            android:layout_marginBottom="20dp"
-            android:hint="Doctor ID"
+            android:layout_marginBottom="50dp"
+            android:hint="Category ID"
             android:textColor="@color/black"
             android:textSize="20sp"
             android:textStyle="bold" />
 
 
         <EditText
-            android:id="@+id/password"
+            android:id="@+id/cate"
             android:layout_width="350dp"
             android:layout_height="50dp"
             android:layout_below="@+id/doc"
             android:layout_marginLeft="40dp"
             android:layout_marginBottom="20dp"
-            android:hint="Mobile Number"
-            android:textColor="@color/black"
-            android:textSize="20sp"
-            android:textStyle="bold" />
-
-        <EditText
-            android:id="@+id/fname"
-            android:layout_width="350dp"
-            android:layout_height="50dp"
-            android:layout_below="@+id/password"
-            android:layout_marginLeft="40dp"
-            android:layout_marginBottom="20dp"
-            android:hint="First Name"
-            android:textColor="@color/black"
-            android:textSize="20sp"
-            android:textStyle="bold" />
-
-        <EditText
-            android:id="@+id/lname"
-            android:layout_width="350dp"
-            android:layout_height="50dp"
-            android:layout_below="@+id/fname"
-            android:layout_marginLeft="40dp"
-            android:layout_marginBottom="20dp"
-            android:hint="Last Name"
-            android:textColor="@color/black"
-            android:textSize="20sp"
-            android:textStyle="bold" />
-
-        <EditText
-            android:id="@+id/email"
-            android:layout_width="350dp"
-            android:layout_height="50dp"
-            android:layout_below="@+id/lname"
-            android:layout_marginLeft="40dp"
-            android:layout_marginBottom="20dp"
-            android:hint="Email"
-            android:textColor="@color/black"
-            android:textSize="20sp"
-            android:textStyle="bold" />
-
-        <EditText
-            android:id="@+id/category"
-            android:layout_width="350dp"
-            android:layout_height="50dp"
-            android:layout_below="@+id/email"
-            android:layout_marginLeft="40dp"
-            android:layout_marginBottom="20dp"
-            android:hint="Specialization"
+            android:hint="Category"
             android:textColor="@color/black"
             android:textSize="20sp"
             android:textStyle="bold" />
@@ -146,14 +98,14 @@
             android:textColor="@color/white" />
 
         <Button
-            android:id="@+id/specs"
+            android:id="@+id/adlogout"
             android:layout_width="250dp"
             android:layout_height="70dp"
             android:layout_marginTop="-5dp"
             android:layout_gravity="center"
             android:layout_marginBottom="5dp"
             android:backgroundTint="@color/black"
-            android:text="Category Data"
+            android:text="Logout"
             android:textColor="@color/white" />
 
 
